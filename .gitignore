@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+vector_store/
+data/raw_papers/
+data/processed/

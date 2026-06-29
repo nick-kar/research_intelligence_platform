@@ -1,0 +1,14 @@
+streamlit
+pymupdf
+scikit-learn
+numpy
+pandas
+python-dotenv
+faiss-cpu
+plotly
+networkx
+sentence-transformers
+rank-bm25
+python-docx
+pytest
+requests
